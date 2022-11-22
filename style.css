@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  background-color: black;
+  overflow-y: hidden;
+}
+
+.canvas {
+  width: 500px;
+  height: 500px;
+}
+
+.animations {
+  display: none;
+}
